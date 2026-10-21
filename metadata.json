@@ -1,0 +1,6 @@
+{
+  "name": "FaceMeets",
+  "description": "FaceMeets modern social network app with rich feeds, stories, reels, messaging, notifications, and profile customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
